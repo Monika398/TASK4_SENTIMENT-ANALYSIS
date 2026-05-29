@@ -25,7 +25,7 @@ The project was implemented using Python in Google Colab/Jupyter Notebook enviro
 ## Tools and Technologies Used
 
 * Python
-* Google Colab / Jupyter Notebook
+* Google Colab 
 * Pandas
 * NLTK
 * Scikit-learn
@@ -66,3 +66,10 @@ The sentiment analysis system successfully classified textual reviews into posit
 This project successfully implemented Sentiment Analysis using NLP techniques and machine learning. It provided practical experience in text preprocessing, feature extraction, sentiment classification, and model evaluation. The project also demonstrated the use of TextBlob for polarity-based sentiment detection. Overall, the project helped in understanding the basics of Natural Language Processing and sentiment analysis using Python.
 
 
+*OUTPUT_SCREENSHOT*:
+
+<img width="1760" height="822" alt="Image" src="https://github.com/user-attachments/assets/ff248d5b-f51b-4668-9405-48cc0bfa3207" />
+
+<img width="1537" height="832" alt="Image" src="https://github.com/user-attachments/assets/764b25a5-ec32-4943-b620-760b3723112e" />
+
+<img width="1435" height="656" alt="Image" src="https://github.com/user-attachments/assets/aabdae96-f478-427a-92b7-8fe9b145b8ea" />
